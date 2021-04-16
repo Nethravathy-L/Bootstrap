@@ -2,7 +2,7 @@
 
 1.  Alumni Management System 
 
-     Alumni Management System is a portal for alumnus and alumna of school and university. It contains several sections like Portfolio, Blogs, Famous alumni, history and contacts      us.social links embedded are twitter, facebook, Google, YouTube and LinkedIn.
+    Alumni Management System is a portal for alumnus and alumna of school and university. It contains several sections like Portfolio, Blogs, Famous alumni, history and contacts       us.social links embedded are twitter, facebook, Google, YouTube and LinkedIn.
 
 2.  E-FOOD
 
@@ -18,9 +18,9 @@
     
  5.   OPEXX
 
-     Opexx Project is online tender portal where you can search for any sector’s tenders and make bid for it. Opexx project is responsive in        all kind of devices using            Bootstrap library.
+    Opexx Project is online tender portal where you can search for any sector’s tenders and make bid for it. Opexx project is responsive in        all kind of devices using           Bootstrap library.
   
  6.  TUTOR POINT
 
-     Tutor point is bootstrap project which is basically a clone of tutorialspoint website. This project contains various pages such as courses, ebooks, coding examples etc.
+    Tutor point is bootstrap project which is basically a clone of tutorialspoint website. This project contains various pages such as courses, ebooks, coding examples etc.
 
