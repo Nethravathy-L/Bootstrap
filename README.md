@@ -16,4 +16,11 @@
 
     EarBot is online support portal for music system products. This project is made using Bootstrap components such as Navbar, Jumbotron, Container, Carousel, Grid System and many     more.
     
- 5.
+ 5.   OPEXX
+
+     Opexx is clone of https://oppex.com. Opexx Project is online tender portal where you can search for any sector’s tenders and make bid for it. Opexx project is responsive in        all kind of devices using Bootstrap library.
+  
+ 6.  TUTOR POINT
+
+     Tutor point is bootstrap project which is basically a clone of tutorialspoint website. This project contains various pages such as courses, ebooks, coding examples etc.
+
